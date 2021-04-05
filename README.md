@@ -1,7 +1,7 @@
 # 유아체온 모니터링 시스템
 
 # 사용환경
-Device : Raspberry Pi 3B+ with WiFi
+Device : Raspberry Pi 3B+ with WiFi<br>
 OS : Raspbian
 
 # 실행 방법
