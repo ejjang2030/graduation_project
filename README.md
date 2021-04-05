@@ -1,4 +1,4 @@
-# CVD(CoronaVirusDetector)
+# 유아체온 모니터링 시스템
 
 [![Build Status](https://travis-ci.org/groupgets/GetThermal.svg?branch=master)](https://travis-ci.org/groupgets/GetThermal)
 
