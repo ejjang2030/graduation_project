@@ -69,3 +69,7 @@ You can also build from the command line:
 # Releases
 
 This is a work in progress. See the Releases tab in github for OS X and Linux pre-release builds.
+
+
+# 시연 동영상
+<iframe width="640" height="360" src="https://youtu.be/7kxKd7uVC_8" frameborder="0" gesture="media" allowfullscreen=""></iframe>
