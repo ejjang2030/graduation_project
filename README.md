@@ -72,4 +72,4 @@ This is a work in progress. See the Releases tab in github for OS X and Linux pr
 
 
 # 시연 동영상
-[![2019년 졸업작품 시연 영상](https://yt-embed.herokuapp.com/embed?v=7kxKd7uVC_8)](https://www.youtube.com/watch?v=7kxKd7uVC_8)
+[![2019년 졸업작품 시연 영상](https://img.youtube.com/vi/7kxKd7uVC_8/0.jpg)](https://www.youtube.com/watch?v=7kxKd7uVC_8)
