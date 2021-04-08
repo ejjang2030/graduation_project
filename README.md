@@ -2,7 +2,7 @@
 
 # 사용환경
 Device : Raspberry Pi 3B+ with WiFi<br>
-OS : Raspbian
+OS : Raspbian(Linux)
 
 # 실행 방법
 build하고 make하면 된다.<br>
